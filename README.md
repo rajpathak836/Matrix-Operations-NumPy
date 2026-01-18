@@ -1,2 +1,24 @@
-# Matrix-Operations-NumPy
-Matrix Operations Tool using NumPy A beginner-level Python project that allows users to perform basic matrix operations such as addition, subtraction, multiplication, transpose, and determinant calculation using the NumPy library. The project helps in understanding matrix manipulation and numerical computation in Python.
+# 🧮 Matrix Operations Tool (NumPy)
+
+## 📌 Short Description
+A beginner-friendly Python project that performs basic matrix operations such as addition, subtraction, multiplication, transpose, and determinant using the NumPy library.
+
+## ✨ Features
+- Matrix Addition
+- Matrix Subtraction
+- Matrix Multiplication
+- Matrix Transpose
+- Determinant Calculation
+
+## 🛠️ Technologies Used
+- Python
+- NumPy
+
+## ▶️ How to Run
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+## 👤 Author
+Raj Pathak

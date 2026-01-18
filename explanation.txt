@@ -1,0 +1,28 @@
+EXPLANATION OF CODE
+
+import numpy as np
+Imports NumPy library for matrix operations.
+
+input_matrix(name)
+Function to take matrix input from user.
+
+np.array(matrix)
+Converts list into NumPy matrix.
+
+A + B
+Performs matrix addition.
+
+A - B
+Performs matrix subtraction.
+
+np.dot(A, B)
+Performs matrix multiplication.
+
+A.T
+Finds transpose of matrix A.
+
+np.linalg.det(A)
+Calculates determinant of matrix A.
+
+shape[0] == shape[1]
+Checks if matrix is square.
